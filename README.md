@@ -1,3 +1,3 @@
-##Movie-Land
+# Movie-Land
 
-A basic React Application which displays required movies using OMDB API
+A basic React Application using OMDB API. This user-friendly platform simplifies the process of discovering information about your favorite films by providing comprehensive details at your fingertips.
